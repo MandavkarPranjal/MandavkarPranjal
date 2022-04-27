@@ -8,7 +8,7 @@ I've been learning coding from last 6 months. I started with C programming, C++,
 
 * 🌍  I'm based in Mumbai
 * ✉️  You can contact me at [pranjalmandavkar10@gmail.com](mailto:pranjalmandavkar10@gmail.com)
-* 🧠  I'm learning C++, CSS
+* 🧠  I'm currently learning C++, CSS
 * 🤝  I'm open to collaborating on Web Devlopment
 
 ### Skills
